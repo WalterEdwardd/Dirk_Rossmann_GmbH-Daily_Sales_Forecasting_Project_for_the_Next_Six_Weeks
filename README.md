@@ -67,26 +67,26 @@ This data has been provided by the Rossman company and used within the provided 
 To get started with this project, clone the repository and install the required Python packages
 
 ### 1. Clone repository
-git clone https://github.com/WalterEdwardd/Dirk_Rossmann_GmbH-Forecast_The_Daily_Sales_For_The_Next_Six_Weks_Project.git
+git clone [link](https://github.com/WalterEdwardd/Dirk_Rossmann_GmbH-Forecast_The_Daily_Sales_For_The_Next_Six_Weks_Project.git)
 
 ### 2. Requirements
 List of libraries:
--	pip install pandas
--	pip install numpy
--	pip install seaborn
--	pip install matplotlib
--	pip install scikit-learn 
--	pip install xgboost
--	pip install lightgbm
--	pip install pickle
--	pip install tensorflow
--	pip install keras
+-	[pip install pandas](https://pypi.org/project/pandas/)
+-	[pip install numpy](https://pypi.org/project/numpy/)
+-	[pip install seaborn](https://pypi.org/project/seaborn/)
+-	[pip install matplotlib](https://pypi.org/project/matplotlib/)
+-	[pip install scikit-learn](https://pypi.org/project/scikit-learn/)
+-	[pip install xgboost](https://pypi.org/project/xgboost/)
+-	[pip install lightgbm](https://pypi.org/project/lightgbm/)
+-	[pip install pickle](https://pypi.org/project/pickle5/)
+-	[pip install tensorflow](https://pypi.org/project/tensorflow/)
+-	[pip install keras](https://pypi.org/project/keras/)
 
 ## III. Usage
-Run the main script to start prediction: [file](Resources/Code/DIRKRO~1.IPY)
+Run the main script to start prediction: [Jupyter Notebook File](Resources/Code/DIRKRO~1.IPY)
 ## IV. Data
 This data has been provided by the Rossman company and used within the provided rules on their Kaggle competition page for an exploratory analysis (Rossmann Store Sales, 2015). The data is provided in two tables, stores and train.
-- The store table contains the metadata for every single store including the following:
+- The [store table](Resources/Data) contains the metadata for every single store including the following:
 1. Store - an ID that represents the store
 2. StoreType - differentiates between 4 different store models: A, B, C, D
 3. Assortment - describes an assortment level: A = Basic, B = Extra, C = Extended
@@ -98,7 +98,7 @@ This data has been provided by the Rossman company and used within the provided 
 9. Promo2SinceYear - describes the year when the store started participating in Promo
 10. PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb, May, Aug, Nov" means each round starts in February, May, August, November of any given year for that store
 
-- The sales table contains the sales data for individual stores at a daily level along with the details about the day:
+- The [sales table](Resources/Data) contains the sales data for individual stores at a daily level along with the details about the day:
 1. Store - a unique ID for each store
 2. DayOfWeek - Describes the day of the week (1-Monday till 7-Sunday)
 3. Date - Describes the date on the day
