@@ -25,11 +25,13 @@ This data has been provided by the Rossman company and used within the provided 
   - Goals of the Study
   - Ethical Considerations
   - Variable Explanation
+
 - Data Understanding
   - Data Pre-Processing:
     - Raw Data Processing
     - Merging of Data Sources
     - Outlier Processing
+
 - Exploratory Data Analyst (EDA):
   - Sales Analysis
   - Number of Customers Analysis
@@ -37,21 +39,25 @@ This data has been provided by the Rossman company and used within the provided 
   - Summary Insights
   - Correlation Check
   - Label Encoding for Each Object Data Type
+
 - Machine Learning
   - Preparing for Machine Learning
   - Machine Learning Model:
   - Random Forest Regressor
   - XGBoost Regressor
   - Light GBM Regressor
+
 - Deep Learning
   - Preparing for Deep Learning
   - Deep Learning Model:
   - Long Short Term Memory (LSTM)
+
 - Comparison and Evaluation Models
   - R2
   - Mean Absolute Error
   - Mean Square Error
   - Root Mean Square Error
+
 - Forecasting
   - Preparing for Forecasting
   - Predicting Future Daily Sales
@@ -77,10 +83,7 @@ List of libraries:
 -	pip install keras
 
 ## III. Usage
-Chạy script chính để bắt đầu dự đoán:
-1. **Data Preparation**: Ensure your data is in the correct format and placed in the `data/` directory.
-2. **Run the Analysis**: Execute the main script to start the analysis:
-
+Run the main script to start prediction: [file]("Resources/Code/DIRKRO~1.IPY")
 ## IV. Data
 This data has been provided by the Rossman company and used within the provided rules on their Kaggle competition page for an exploratory analysis (Rossmann Store Sales, 2015). The data is provided in two tables, stores and train.
 - The store table contains the metadata for every single store including the following:
