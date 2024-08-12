@@ -124,7 +124,7 @@ This data has been provided by the Rossman company and used within the provided 
 #### a. Define
 ![image](https://github.com/user-attachments/assets/8106a4c6-d320-474b-8905-f2a9a6ffd68d)
 #### b. HyperParameters Tuning
-![image](https://github.com/user-attachments/assets/5cb648f2-de4e-4ffc-9bc2-6a14b81b17ab)
+![image](https://github.com/user-attachments/assets/a6dbc1d2-b1f3-41ac-926c-c18aca2c4dd7)
 #### c.Training and Evaluating Model
 ![image](https://github.com/user-attachments/assets/ba99285c-c0b6-4950-80af-518aef04bdf0)
 #### d. Features Importance
@@ -132,28 +132,28 @@ This data has been provided by the Rossman company and used within the provided 
 
 ### 3. LightGBM Regressor
 #### a. Define
-![image](https://github.com/user-attachments/assets/6fd1acad-3905-45e4-bfdb-6e9bf27e7f40)
+![image](https://github.com/user-attachments/assets/85414bc3-b237-4627-acf9-3d4e084e9494)
 #### b. HyperParameters Tuning
-![image](https://github.com/user-attachments/assets/aabe1da1-9659-4030-a198-716ff3338525)
+![image](https://github.com/user-attachments/assets/44a2eed5-018f-4a25-b56f-6e385c655894)
 #### c.Training and Evaluating Model
-![image](https://github.com/user-attachments/assets/9da95f1d-9bf7-40f5-982a-404ac35d0b3f)
+![image](https://github.com/user-attachments/assets/9e2953cc-ca5e-426c-b7ff-c8de8a8ce702)
 #### d. Features Importance
-![image](https://github.com/user-attachments/assets/76f1cae5-d7e4-4288-8f6a-de916a3e3b16)
+![image](https://github.com/user-attachments/assets/47ed41d5-0928-43da-bf8b-22c044c4753c)
 
 ### 4. Long Short-Term Memory
 #### a. Define
-![image](https://github.com/user-attachments/assets/3d34c443-2438-4b96-a31e-72251d89bd8b)
+![image](https://github.com/user-attachments/assets/52162b1a-6e1c-490d-ae3a-12fdea0a0e8e)
 #### b. Build the Model
-![image](https://github.com/user-attachments/assets/f267fbfb-357c-4c6d-9804-bcadc3cdc4ec)
+![image](https://github.com/user-attachments/assets/ffa90a6c-92ac-4ec2-bf84-e2c0b514b465)
 #### c.Training and Evaluating Model
-![image](https://github.com/user-attachments/assets/9abfa2be-3ec5-4f3c-8e50-ed7d5a91200a)
+![image](https://github.com/user-attachments/assets/16d70aec-1af8-4dd2-bd11-29283076046f)
 
 ### 5. Comparating Model
-![image](https://github.com/user-attachments/assets/b2d3d329-3a87-45b9-83f7-eec84bc04860)
+![image](https://github.com/user-attachments/assets/be7fcd3d-f166-4994-840b-a6ec10a40f13)
 
 ### 6. Visualization The Daily Sales
 #### Store 1
-![image](https://github.com/user-attachments/assets/2be574f8-e3fc-4f0f-ba6d-1429f8d66f11)
+![image](https://github.com/user-attachments/assets/dd98efac-98d4-4f38-8f7a-311c2514057a)
 #### Store 3
 ![image](https://github.com/user-attachments/assets/623cc264-6e2d-4f1d-ac80-488b2b6f88d3)
 #### Store 8
