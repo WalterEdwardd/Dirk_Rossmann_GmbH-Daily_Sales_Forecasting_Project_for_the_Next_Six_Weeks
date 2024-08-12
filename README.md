@@ -122,7 +122,7 @@ This data has been provided by the Rossman company and used within the provided 
 
 ### 2. XGBoost Regressor
 #### a. Define
-![image](https://github.com/user-attachments/assets/8106a4c6-d320-474b-8905-f2a9a6ffd68d)
+![image](https://github.com/user-attachments/assets/f0936ec4-9969-41bc-9630-e7b8f082e894)
 #### b. HyperParameters Tuning
 ![image](https://github.com/user-attachments/assets/a6dbc1d2-b1f3-41ac-926c-c18aca2c4dd7)
 #### c.Training and Evaluating Model
@@ -155,21 +155,21 @@ This data has been provided by the Rossman company and used within the provided 
 #### Store 1
 ![image](https://github.com/user-attachments/assets/dd98efac-98d4-4f38-8f7a-311c2514057a)
 #### Store 3
-![image](https://github.com/user-attachments/assets/623cc264-6e2d-4f1d-ac80-488b2b6f88d3)
+![image](https://github.com/user-attachments/assets/5b4ce91f-dc1b-4f91-81be-44b3ffec4b1f)
 #### Store 8
-![image](https://github.com/user-attachments/assets/f6881b91-fc9f-4816-b651-a35d611f9aba)
+![image](https://github.com/user-attachments/assets/85ddc162-c458-4497-bab0-3d581d1270a3)
 #### Store 9
-![image](https://github.com/user-attachments/assets/1be5af60-235a-41d0-945d-8e15ac5daf28)
+![image](https://github.com/user-attachments/assets/0c60ae46-2795-4706-9c10-15c7a55e7b42)
 #### Store 13
-![image](https://github.com/user-attachments/assets/630e70fc-0ab4-42c8-a0d4-cc234b5ee910)
+![image](https://github.com/user-attachments/assets/234c980f-6733-4f2e-b308-43d43ee97ddf)
 #### Store 25
-![image](https://github.com/user-attachments/assets/98a04294-1cce-4063-81ac-11aee1514059)
+![image](https://github.com/user-attachments/assets/e26b096a-b6c4-4be1-ae85-9b2cab0321c5)
 #### Store 29
-![image](https://github.com/user-attachments/assets/a7751063-3b1b-434b-b5fd-4d203f99ecff)
+![image](https://github.com/user-attachments/assets/ce5065f7-2fa3-43b1-bf0e-4a3e513b78ab)
 #### Store 31
-![image](https://github.com/user-attachments/assets/327754d1-143e-4153-af14-18e8433f9d3a)
+![image](https://github.com/user-attachments/assets/1345a87e-dd6c-43ff-9c1b-f3202a9c4a0b)
 #### Store 46
-![image](https://github.com/user-attachments/assets/f4733820-74a8-4671-a0fa-40f0836a8d06)
+![image](https://github.com/user-attachments/assets/56a2b189-e31b-4670-96a3-50e8bc7d3bcf)
 
 ### 7. Suggestion
 ![image](https://github.com/user-attachments/assets/53b0939e-1031-4f09-bb28-ee48af4cb1c0)
