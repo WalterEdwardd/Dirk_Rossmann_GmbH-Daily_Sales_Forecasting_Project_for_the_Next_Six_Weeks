@@ -83,7 +83,7 @@ List of libraries:
 -	pip install keras
 
 ## III. Usage
-Run the main script to start prediction: [file]("Resources/Code/DIRKRO~1.IPY")
+Run the main script to start prediction: [file](Resources/Code/DIRKRO~1.IPY)
 ## IV. Data
 This data has been provided by the Rossman company and used within the provided rules on their Kaggle competition page for an exploratory analysis (Rossmann Store Sales, 2015). The data is provided in two tables, stores and train.
 - The store table contains the metadata for every single store including the following:
