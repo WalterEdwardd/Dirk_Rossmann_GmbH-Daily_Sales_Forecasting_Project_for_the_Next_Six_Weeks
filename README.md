@@ -137,7 +137,39 @@ This data has been provided by the Rossman company and used within the provided 
 #### d. Features Importance
 ![image](https://github.com/user-attachments/assets/76f1cae5-d7e4-4288-8f6a-de916a3e3b16)
 
-### 4. Visualization The Daily Sales
+### 4. Long Short-Term Memory
+#### a. Define
+![image](https://github.com/user-attachments/assets/3d34c443-2438-4b96-a31e-72251d89bd8b)
+#### b. Build the Model
+![image](https://github.com/user-attachments/assets/f267fbfb-357c-4c6d-9804-bcadc3cdc4ec)
+#### c.Training and Evaluating Model
+![image](https://github.com/user-attachments/assets/9abfa2be-3ec5-4f3c-8e50-ed7d5a91200a)
+
+### 5. Comparating Model
+![image](https://github.com/user-attachments/assets/b2d3d329-3a87-45b9-83f7-eec84bc04860)
+
+### 6. Visualization The Daily Sales
+#### Store 1
+![image](https://github.com/user-attachments/assets/2be574f8-e3fc-4f0f-ba6d-1429f8d66f11)
+#### Store 3
+![image](https://github.com/user-attachments/assets/623cc264-6e2d-4f1d-ac80-488b2b6f88d3)
+#### Store 8
+![image](https://github.com/user-attachments/assets/f6881b91-fc9f-4816-b651-a35d611f9aba)
+#### Store 9
+![image](https://github.com/user-attachments/assets/1be5af60-235a-41d0-945d-8e15ac5daf28)
+#### Store 13
+![image](https://github.com/user-attachments/assets/630e70fc-0ab4-42c8-a0d4-cc234b5ee910)
+#### Store 25
+![image](https://github.com/user-attachments/assets/98a04294-1cce-4063-81ac-11aee1514059)
+#### Store 29
+![image](https://github.com/user-attachments/assets/a7751063-3b1b-434b-b5fd-4d203f99ecff)
+#### Store 31
+![image](https://github.com/user-attachments/assets/327754d1-143e-4153-af14-18e8433f9d3a)
+#### Store 46
+![image](https://github.com/user-attachments/assets/f4733820-74a8-4671-a0fa-40f0836a8d06)
+
+### 7. Suggestion
+![image](https://github.com/user-attachments/assets/53b0939e-1031-4f09-bb28-ee48af4cb1c0)
 
 ## VI. Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
