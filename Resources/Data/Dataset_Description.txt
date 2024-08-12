@@ -1,0 +1,43 @@
+The data is provided in two tables, stores and train.
+
+The store table contains the metadata for every single store including the following:
+1. Store - an ID that represents the store
+
+2. StoreType - differentiates between 4 different store models: A, B, C, D
+
+3. Assortment - describes an assortment level: A = Basic, B = Extra, C = Extended
+
+4. CompetitionDistance - describes the distance in meters to the nearest competitor store
+
+5. CompetitionOpenSinceMonth - gives the approximate month of the time the nearest competitor was opened
+
+6. CompetitionOpenSinceYear - gives the approximate year of the time the nearest competitor was opened
+
+7. Promo2 - Promo2 is a continuing and consecutive promotion for some stores: 0 = store is not participating, 1 = store is participating
+
+8. PromoSince(Week) - describes the calendar week when the store started participating in Promo
+
+9. PromoSince(Year) - describes the year when the store started participating in Promo
+
+10. PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb, May, Aug, Nov" means each round starts in February, May, August, November of any given year for that store
+
+
+The sales table contains the sales data for individual stores at a daily level along with the details about the day
+
+1. Store - a unique ID for each store
+
+2. DayOfWeek - Describes the day of the week (1-Monday till 7-Sunday)
+
+3. Date - Describes the date on the day
+
+4. Sales - the turnover for any given day($)(this is what you are forecasting)
+
+5. NumberOfCustomers - the number of customers on a given day
+
+6. Open - an indicator for whether the store was open: 0 = closed, 1 = open
+
+7. Promo - indicates whether a store is running a promo on that day
+
+8. StateHoliday - indicates a state holiday. Normally all stores, with few exceptions, are closed on state holidays. Note that all schools are closed on public holidays and weekends. A = public holiday, B = Easter holiday, C = Christmas, D = None
+
+9. SchoolHoliday - indicates if the (Store, Date) was affected by the closure of public schools: 0 = not affected, 1 = affected
