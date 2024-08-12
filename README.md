@@ -112,27 +112,27 @@ This data has been provided by the Rossman company and used within the provided 
 ## V. Results
 ### 1. Random Forest Regressor
 #### a. Define
-![image](https://github.com/user-attachments/assets/63f96a4a-0e41-4567-bca0-cb3d3025186a)
+![image](https://github.com/user-attachments/assets/9d64ce4a-e850-45fb-875e-c703869f54af)
 #### b. HyperParameters Tuning
-![image](https://github.com/user-attachments/assets/a514a147-66bf-4cc7-9e3b-c9846cb35bfc)
+![image](https://github.com/user-attachments/assets/1172242e-b0bd-41b8-90f9-637d224076ba)
 #### c.Training and Evaluating Model
-![image](https://github.com/user-attachments/assets/1ebd5bd6-ecdd-454a-a691-a955a1e1ca58)
+![image](https://github.com/user-attachments/assets/a5afa06d-d429-4db1-bd06-4b3329735fb2)
 #### d. Features Importance
-![image](https://github.com/user-attachments/assets/404fd6c1-c9ae-4685-9241-24dee739dfb6)
+![image](https://github.com/user-attachments/assets/05b8a73e-00b5-4c0e-a22d-fd53e1f4594a)
 
 ### 2. XGBoost Regressor
 #### a. Define
 ![image](https://github.com/user-attachments/assets/8106a4c6-d320-474b-8905-f2a9a6ffd68d)
 #### b. HyperParameters Tuning
-![image](https://github.com/user-attachments/assets/c64f8241-663f-4134-a489-3f710c003113)
+![image](https://github.com/user-attachments/assets/5cb648f2-de4e-4ffc-9bc2-6a14b81b17ab)
 #### c.Training and Evaluating Model
-![image](https://github.com/user-attachments/assets/46ef4451-a13a-4117-a65b-bc1f67a5cc91)
+![image](https://github.com/user-attachments/assets/ba99285c-c0b6-4950-80af-518aef04bdf0)
 #### d. Features Importance
-![image](https://github.com/user-attachments/assets/ef74c888-987c-4c43-aa96-62a7ff23f266)
+![image](https://github.com/user-attachments/assets/3a553726-f2e3-4707-b219-13ef7f0f3ef8)
 
 ### 3. LightGBM Regressor
 #### a. Define
-![image](https://github.com/user-attachments/assets/b8155a9b-a25e-4469-a5c8-ff9ce671a53d)
+![image](https://github.com/user-attachments/assets/6fd1acad-3905-45e4-bfdb-6e9bf27e7f40)
 #### b. HyperParameters Tuning
 ![image](https://github.com/user-attachments/assets/aabe1da1-9659-4030-a198-716ff3338525)
 #### c.Training and Evaluating Model
@@ -185,4 +185,4 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 ## VII. Author
 Created by [Nhu Dai Tran](https://github.com/WalterEdwardd)
 
-<img src="https://github.com/user-attachments/assets/01b769fa-5c75-44db-819f-3fc8781c7e98" alt="Description" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/01b769fa-5c75-44db-819f-3fc8781c7e98" alt="Description" width="300" height="400">
