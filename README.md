@@ -184,3 +184,4 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## VII. Author
 Created by [Nhu Dai Tran](https://github.com/WalterEdwardd)
+![2](https://github.com/user-attachments/assets/01b769fa-5c75-44db-819f-3fc8781c7e98)
