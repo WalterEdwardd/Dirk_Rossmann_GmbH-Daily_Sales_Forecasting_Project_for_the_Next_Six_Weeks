@@ -92,7 +92,7 @@ This data has been provided by the Rossman company and used within the provided 
 - [store file](Resources/Data)
 - [sales file](Resources/Data)
 
-[Details here](Resources/Data/Dataset_Description.txt)
+Details here: [Dataset_Description](Resources/Data/Dataset_Description.txt)
 
 ## V. Results
 ### 1. Random Forest Regressor
