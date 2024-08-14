@@ -1,5 +1,5 @@
 # Dirk Rossmann GmbH - Forecast The Daily Sales For The Next Six Weeks_Python_Project
-A project aimed at processing, exploring and forecasting daily sales data for Dirk Rossmann GmbH for the next six weeks.
+A project aimed at forecasting daily sales data for Dirk Rossmann GmbH for the next six weeks.
 
 Tools used: Python, Excel, PowerPoint
 
@@ -15,8 +15,8 @@ Note - Since the company is just embarking on this project, the scope has been k
 ### 2. Goals of the Study
 The main objectives of this case study are as follows:
 1.	To apply data preprocessing and preparation techniques in order to obtain clean data (EDA)
-2.	To build models able to predict sales based on stores and sales history features
-3.	To analyze and compare models performance in order to choose the best model
+2.	To build a suitable model able to predict sales based on stores and sales history features
+3.	To develop deeper data analysis capabilitie.
 
 ### 3. Ethical Considerations:
 This data has been provided by the Rossman company and used within the provided rules on their Kaggle competition page for an exploratory analysis (Rossmann Store Sales, 2015). There is no personal identifiable information (PII) in this data set.
@@ -86,30 +86,13 @@ List of libraries:
 
 ## III. Usage
 Run the main script to start prediction: [Jupyter Notebook File](Resources/Code/DIRKRO~1.IPY)
-## IV. Data
-This data has been provided by the Rossman company and used within the provided rules on their Kaggle competition page for an exploratory analysis (Rossmann Store Sales, 2015). The data is provided in two tables, stores and train.
-- The [store table](Resources/Data) contains the metadata for every single store including the following:
-1. Store - an ID that represents the store
-2. StoreType - differentiates between 4 different store models: A, B, C, D
-3. Assortment - describes an assortment level: A = Basic, B = Extra, C = Extended
-4. CompetitionDistance - describes the distance in meters to the nearest competitor store
-5. CompetitionOpenSinceMonth - gives the approximate month of the time the nearest competitor was opened
-6. CompetitionOpenSinceYear - gives the approximate year of the time the nearest competitor was opened
-7. Promo2 - Promo2 is a continuing and consecutive promotion for some stores: 0 = store is not participating, 1 = store is participating
-8. Promo2SinceWeek - describes the calendar week when the store started participating in Promo
-9. Promo2SinceYear - describes the year when the store started participating in Promo
-10. PromoInterval - describes the consecutive intervals Promo2 is started, naming the months the promotion is started anew. E.g. "Feb, May, Aug, Nov" means each round starts in February, May, August, November of any given year for that store
 
-- The [sales table](Resources/Data) contains the sales data for individual stores at a daily level along with the details about the day:
-1. Store - a unique ID for each store
-2. DayOfWeek - Describes the day of the week (1-Monday till 7-Sunday)
-3. Date - Describes the date on the day
-4. Sales - the turnover for any given day ($) (this is what you are forecasting)
-5. NumberOfCustomers - the number of customers on a given day
-6. Open - an indicator for whether the store was open: 0 = closed, 1 = open
-7. Promo - indicates whether a store is running a promo on that day
-8. StateHoliday - indicates a state holiday. Normally all stores, with few exceptions, are closed on state holidays. Note that all schools are closed on public holidays and weekends. A = public holiday, B = Easter holiday, C = Christmas, D = None
-9. SchoolHoliday - indicates if the (Store, Date) was affected by the closure of public schools: 0 = not affected, 1 = affected
+## IV. Data
+This data has been provided by the Rossman company and used within the provided rules on their Kaggle competition page for an exploratory analysis (Rossmann Store Sales, 2015). The data is provided in 2 CSV files:
+- [store file](Resources/Data)
+- [sales file](Resources/Data)
+
+[Details here](Resources/Data/Dataset_Description.txt)
 
 ## V. Results
 ### 1. Random Forest Regressor
