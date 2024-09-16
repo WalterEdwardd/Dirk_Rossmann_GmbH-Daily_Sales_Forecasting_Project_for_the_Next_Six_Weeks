@@ -1,7 +1,7 @@
 # Dirk Rossmann GmbH - Daily Sales Forecasting Project for the Next Six Weeks
 A project aimed at forecasting daily sales data for Dirk Rossmann GmbH for the next six weeks.
 
-Tools used: Python, Excel, PowerPoint
+Tools used: Python, Excel, PowerPoint, Word
 
 ## I. Description
 This project involves analyzing sales data for Dirk Rossmann GmbH to forecast daily sales for the next six weeks.
